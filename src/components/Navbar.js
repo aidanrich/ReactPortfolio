@@ -5,10 +5,10 @@ import React from 'react';
 const styles = {
   card: {
  
-    background: '#71B6A3',
+    backgroundImage: 'linear-gradient(to bottom right, #3C5155 , #000000)',
   },
   heading: {
-    background: '#71B6A3',
+    
     minHeight: 50,
     lineHeight: 3.5,
     fontSize: '1.2rem',
