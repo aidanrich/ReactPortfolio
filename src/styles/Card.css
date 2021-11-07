@@ -1,0 +1,28 @@
+.card {
+  margin: 20px;
+  background-color: #e8eaf6;
+  max-width: 25%;
+  border-color: #548779;
+  border-width: 5px;
+}
+
+
+.heading {
+  background-color: #548779;
+  min-height: 50px;
+  line-height: 3.5rem;
+  font-size: 1.2rem;
+  color: white;
+  padding: 20px;
+
+}
+
+.content {
+  padding: 20px;
+}
+
+@media only screen and (max-width: 700px) {
+    .card {
+        max-width: 100%;
+    }
+  }
