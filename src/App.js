@@ -10,7 +10,6 @@ function App() {
     <main>
     <div>
       <Header />
-      <Card />
       
     </div>
     </main>

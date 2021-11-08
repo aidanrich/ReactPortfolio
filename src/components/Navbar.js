@@ -46,13 +46,13 @@ function Navbar({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-          href="#blog"
+          href="#portfolio"
           onClick={() => handlePageChange('Blog')}
           //  TODO: Add a comment explaining what this logic is doing
 
           className={currentPage === 'Blog' ? 'heading active' : 'heading'}
         >
-          Blog
+          Portfolio
         </a>
       </li>
       <li className="nav-item">
