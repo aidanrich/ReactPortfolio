@@ -5,7 +5,7 @@ import React from 'react';
 const styles = {
   card: {
  
-    backgroundImage: 'linear-gradient(to bottom right, #3C5155 , #000000)',
+    // backgroundImage: 'linear-gradient(to bottom right, #3C5155 , #000000)',
   },
   heading: {
     
