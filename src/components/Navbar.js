@@ -1,9 +1,6 @@
 import React from 'react';
 import './styles/Card.css';
-// We declare an object called styles that will contain a few objects for card and heading styles
-// Notice that each key lists CSS styles in camel case
 
-// In Navbar, we can assign a style from an object by using curly braces
 function Navbar({ currentPage, handlePageChange }) {
   return (
     <ul className="nav">
@@ -17,26 +14,25 @@ function Navbar({ currentPage, handlePageChange }) {
           Home
         </a>
       </li>
-      {/* <li className="nav-item">
+      <li className="nav-item">
         <a
-          href="#about"
+          href="#resume"
           onClick={() => handlePageChange('About')}
-          //  TODO: Add a comment explaining what this logic is doing
 
           className={currentPage === 'About' ? 'heading active' : 'heading'}
         >
-          About
+          Resume
         </a>
-      </li> */}
+      </li>
       <li className="nav-item">
         <a
-          href="#portfolio"
+          href="#projects"
           onClick={() => handlePageChange('Blog')}
           
 
           className={currentPage === 'Blog' ? 'heading active' : 'heading'}
         >
-          Portfolio
+          Projects
         </a>
       </li>
       <li className="nav-item">
