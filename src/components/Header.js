@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Navbar from './Navbar';
 import Home from './pages/Home';
 import About from './pages/About';
-import Blog from './pages/Blog';
+import Projects from './pages/Projects';
 import Contact from './pages/Contact';
 import './styles/Header.css';
 
@@ -18,8 +18,8 @@ export default function Header() {
     if (currentPage === 'About') {
       return <About />;
     }
-    if (currentPage === 'Blog') {
-      return <Blog />;
+    if (currentPage === 'Projects') {
+      return <Projects />;
     }
     return <Contact />;
   };

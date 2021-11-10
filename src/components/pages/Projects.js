@@ -4,7 +4,7 @@ import fitness from '../assets/fitnesspic2.jpg';
 import newTown from '../assets/new2town2.jpg';
 import budget from '../assets/Capture.JPG';
 
-export default function Blog() {
+export default function Projects() {
   return (
     <>
     <div className="placer">

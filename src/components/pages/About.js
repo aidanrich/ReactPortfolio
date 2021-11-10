@@ -11,7 +11,10 @@ function About() {
       <FontAwesomeIcon className="brand fa-3x" icon={faHtml5} />
     <FontAwesomeIcon className="brand fa-3x" icon={faCss3Alt} /><FontAwesomeIcon className="brand fa-3x" icon={faJs} /><FontAwesomeIcon className="brand fa-3x" icon={faReact} /><FontAwesomeIcon className="brand fa-3x" icon={faNodeJs} />
       <p className="content">
-        Technologies: JavaScript, HTML, CSS, MySQL, Node.js, Express.js, MongoDB, Handlebars and React. You can view my resume here:
+        Technologies: JavaScript, HTML, CSS, MySQL, Node.js, Express.js, MongoDB, Handlebars and React.
+        </p>
+        <p className="content">
+        You can view my resume here:
       <a className="content" href={resume} target="_blank" rel="noreferrer noopener">My Resume</a>
       </p>
     </div>

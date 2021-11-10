@@ -35,6 +35,11 @@ ul {
   margin: 0;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
 .above {
   margin-top: 10px;
 }
@@ -43,6 +48,21 @@ ul {
   margin: 0 0 0 20px;
   padding: 10px;
   border: solid rgb(200, 223, 219);
+}
+
+footer {
+  margin-top: 40px;
+}
+
+
+@media only screen and (max-width: 1100px) {
+  .placer {
+    flex-wrap: wrap;
+  }
+ .box-main {
+   max-width: 30%;
+   
+ }
 }
 
 @media only screen and (max-width: 700px) {
