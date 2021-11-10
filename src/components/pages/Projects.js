@@ -5,6 +5,7 @@ import newTown from '../assets/new2town2.jpg';
 import budget from '../assets/Capture.JPG';
 import quizGame from '../assets/quizgame.jpg'
 import employee from '../assets/Capture2.JPG'
+import game from '../assets/game.JPG'
 
 export default function Projects() {
   return (
@@ -102,6 +103,26 @@ export default function Projects() {
         <ul className="nav">
                     <li>
                     <a href="https://github.com/aidanrich/employee-manager" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
+                    </li>
+                </ul>
+                </p>
+      </div>
+      <div className="box-main">
+        <h1 className="heading">Know Your Game!</h1>
+        <p className="content">
+          <img src={game} alt="gamesite" />
+
+        </p>
+        <p className="content">
+          This app let's you search for games based on platform and genre and gives you book suggestions based on whichever game you click on.
+        </p>
+        <p className='above'>
+        <ul className="nav">
+                    <li>
+                    <a href="https://github.com/aidanrich/project1" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
+                    </li>
+                    <li>
+                    <a href="https://aidanrich.github.io/project1/" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
                     </li>
                 </ul>
                 </p>
