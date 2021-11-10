@@ -59,7 +59,7 @@ export default function Contact() {
       </form>
       {errorMessage && (
         <div>
-          <p className="error-text">{errorMessage}</p>
+          <p className="content">{errorMessage}</p>
         </div>
       )}
           <div class="content">
