@@ -3,6 +3,8 @@ import '../styles/Card.css';
 import fitness from '../assets/fitnesspic2.jpg';
 import newTown from '../assets/new2town2.jpg';
 import budget from '../assets/Capture.JPG';
+import quizGame from '../assets/quizgame.jpg'
+import employee from '../assets/Capture2.JPG'
 
 export default function Projects() {
   return (
@@ -63,6 +65,43 @@ export default function Projects() {
                     </li>
                     <li>
                     <a href="https://aqueous-citadel-52972.herokuapp.com" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
+                    </li>
+                </ul>
+                </p>
+      </div>
+      <div className="box-main">
+        <h1 className="heading">Quiz Game</h1>
+        <p className="content">
+          <img src={quizGame} alt="quizgame" />
+
+        </p>
+        <p className="content">
+          This app is a simple quiz game designed to test your coding knowledge. Click through when the timer starts and find out how much you know!
+        </p>
+        <p className='above'>
+        <ul className="nav">
+                    <li>
+                    <a href="https://github.com/aidanrich/quizgame" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
+                    </li>
+                    <li>
+                    <a href="https://aidanrich.github.io/quizgame/" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
+                    </li>
+                </ul>
+                </p>
+      </div>
+      <div className="box-main">
+        <h1 className="heading">Employee Manager</h1>
+        <p className="content">
+          <img src={employee} alt="employee" />
+
+        </p>
+        <p className="content">
+          This is a back-end only project using inquirer to help a user manage a database of employees. The current mock-up is for a clown college. To use clone down the repo from github and run 'npm i' in the command line to get started.
+        </p>
+        <p className='above'>
+        <ul className="nav">
+                    <li>
+                    <a href="https://github.com/aidanrich/employee-manager" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
                     </li>
                 </ul>
                 </p>

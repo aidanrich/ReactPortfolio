@@ -1,5 +1,6 @@
 .placer {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .box-main {
@@ -56,11 +57,8 @@ footer {
 
 
 @media only screen and (max-width: 1100px) {
-  .placer {
-    flex-wrap: wrap;
-  }
  .box-main {
-   max-width: 30%;
+   max-width: 40%;
    
  }
 }
