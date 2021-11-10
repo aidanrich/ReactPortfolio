@@ -16,6 +16,11 @@
   margin: 20px 0 10px 20px;
 }
 
+ul {
+  list-style-type: none;
+  margin-top: 20px;
+}
+
 .heading {
   text-decoration: none;
   min-height: 50px;
@@ -28,6 +33,16 @@
   padding: 20px 20px 0 20px;
   color: rgb(200, 223, 219);
   margin: 0;
+}
+
+.above {
+  margin-top: 10px;
+}
+
+.repo {
+  margin: 0 0 0 20px;
+  padding: 10px;
+  border: solid rgb(200, 223, 219);
 }
 
 @media only screen and (max-width: 700px) {
