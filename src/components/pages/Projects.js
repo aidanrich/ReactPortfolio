@@ -96,7 +96,7 @@ export default function Projects() {
 
         </p>
         <p className="content">
-          This is a back-end only project using inquirer to help a user manage a database of employees. The current mock-up is for a clown college. To use clone down the repo from github and run 'npm i' in the command line to get started.
+          This is a back-end only project using inquirer to help a user manage a database of employees. The current mock-up is for a clown college. To use: clone down the repo from github and run 'npm i' in the command line to get started.
         </p>
         <p className='above'>
         <ul className="nav">
