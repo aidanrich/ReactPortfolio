@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.1242d3c6.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.0c6a0de9.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.0c6a0de9.chunk.js.map",
+    "main.css": "/ReactPortfolio/static/css/main.dfcd027c.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.8ffde536.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.8ffde536.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.111801c8.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.111801c8.js.map",
     "static/css/2.383c0125.chunk.css": "/ReactPortfolio/static/css/2.383c0125.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.5ab4cb90.chunk.js.map": "/ReactPortfolio/static/js/3.5ab4cb90.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
     "static/css/2.383c0125.chunk.css.map": "/ReactPortfolio/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.1242d3c6.chunk.css.map": "/ReactPortfolio/static/css/main.1242d3c6.chunk.css.map",
+    "static/css/main.dfcd027c.chunk.css.map": "/ReactPortfolio/static/css/main.dfcd027c.chunk.css.map",
     "static/js/2.865e03a8.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.865e03a8.chunk.js.LICENSE.txt",
     "static/media/Capture.93def268.JPG": "/ReactPortfolio/static/media/Capture.93def268.JPG",
     "static/media/Capture2.d88b568d.JPG": "/ReactPortfolio/static/media/Capture2.d88b568d.JPG",
@@ -20,6 +20,7 @@
     "static/media/App.css": "/ReactPortfolio/static/media/dark.18ba47fd.JPG",
     "static/media/fitnesspic2.d428785a.jpg": "/ReactPortfolio/static/media/fitnesspic2.d428785a.jpg",
     "static/media/game.7319800b.JPG": "/ReactPortfolio/static/media/game.7319800b.JPG",
+    "static/media/iconOfMe2.1aa39275.gif": "/ReactPortfolio/static/media/iconOfMe2.1aa39275.gif",
     "static/media/new2town2.12855d81.jpg": "/ReactPortfolio/static/media/new2town2.12855d81.jpg",
     "static/media/quizgame.705e1e1e.jpg": "/ReactPortfolio/static/media/quizgame.705e1e1e.jpg"
   },
@@ -27,7 +28,7 @@
     "static/js/runtime-main.111801c8.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.865e03a8.chunk.js",
-    "static/css/main.1242d3c6.chunk.css",
-    "static/js/main.0c6a0de9.chunk.js"
+    "static/css/main.dfcd027c.chunk.css",
+    "static/js/main.8ffde536.chunk.js"
   ]
 }
