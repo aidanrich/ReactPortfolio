@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.dfcd027c.chunk.css",
+    "main.css": "/ReactPortfolio/static/css/main.bb6c2c83.chunk.css",
     "main.js": "/ReactPortfolio/static/js/main.8ffde536.chunk.js",
     "main.js.map": "/ReactPortfolio/static/js/main.8ffde536.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.111801c8.js",
@@ -12,7 +12,7 @@
     "static/js/3.5ab4cb90.chunk.js.map": "/ReactPortfolio/static/js/3.5ab4cb90.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
     "static/css/2.383c0125.chunk.css.map": "/ReactPortfolio/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.dfcd027c.chunk.css.map": "/ReactPortfolio/static/css/main.dfcd027c.chunk.css.map",
+    "static/css/main.bb6c2c83.chunk.css.map": "/ReactPortfolio/static/css/main.bb6c2c83.chunk.css.map",
     "static/js/2.865e03a8.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.865e03a8.chunk.js.LICENSE.txt",
     "static/media/Capture.93def268.JPG": "/ReactPortfolio/static/media/Capture.93def268.JPG",
     "static/media/Capture2.d88b568d.JPG": "/ReactPortfolio/static/media/Capture2.d88b568d.JPG",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.111801c8.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.865e03a8.chunk.js",
-    "static/css/main.dfcd027c.chunk.css",
+    "static/css/main.bb6c2c83.chunk.css",
     "static/js/main.8ffde536.chunk.js"
   ]
 }
