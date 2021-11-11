@@ -4,6 +4,7 @@ import resume from '../assets/Resume2021.pdf'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCss3Alt, faJs, faHtml5, faReact, faNodeJs } from '@fortawesome/free-brands-svg-icons';
 
+
 function About() {
   return (
     <div className="box-main">

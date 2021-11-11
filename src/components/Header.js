@@ -6,6 +6,8 @@ import Projects from './pages/Projects';
 import Contact from './pages/Contact';
 import './styles/Header.css';
 
+import iconOfMe from './assets/iconOfMe2.gif'
+
 export default function Header() {
 
   const [currentPage, setCurrentPage] = useState('Home');
@@ -32,9 +34,10 @@ export default function Header() {
       <Navbar currentPage={currentPage} handlePageChange={handlePageChange} />
      
       <header className="header">
-      <h1>Aidan's Portfolio</h1>
+      <h1><img className="sketch" src={iconOfMe} alt="My Pic" />Aidan's Portfolio</h1>
     </header>
-      {renderPage()}
+    <div>
+      {renderPage()}</div>
     </div>
   );
 
