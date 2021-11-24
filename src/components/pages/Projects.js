@@ -4,7 +4,7 @@ import fitness from '../assets/fitnesspic2.jpg';
 import newTown from '../assets/new2town2.jpg';
 import budget from '../assets/Capture.JPG';
 import quizGame from '../assets/quizgame.jpg'
-import employee from '../assets/Capture2.JPG'
+// import employee from '../assets/Capture2.JPG'
 import game from '../assets/game.JPG'
 import prequel from '../assets/Prequel.JPG'
 
