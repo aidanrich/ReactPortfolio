@@ -6,11 +6,32 @@ import budget from '../assets/Capture.JPG';
 import quizGame from '../assets/quizgame.jpg'
 import employee from '../assets/Capture2.JPG'
 import game from '../assets/game.JPG'
+import prequel from '../assets/Prequel.JPG'
 
 export default function Projects() {
   return (
     <>
     <div className="placer">
+    <div className="box-main">
+        <h1 className="heading">Prequel</h1>
+        <p className="content">
+          <img src={prequel} alt="Prequel" />
+
+        </p>
+        <p className="content">
+        A video streaming app for smaller content creators with not a lot of clout/pull to get their work seen by industry professionals. The app will be designed such that lower-quality/budget productions can get exposure and views, with the hope of getting a series/movie picked up by a larger studio.
+        </p>
+        <p className='above'>
+        <ul className="nav">
+                    <li>
+                    <a href="https://github.com/aidanrich/prequel" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
+                    </li>
+                    <li>
+                    <a href="https://blooming-atoll-34852.herokuapp.com/" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
+                    </li>
+                </ul>
+                </p>
+      </div>
     <div className="box-main">
       <h1 className="heading">Fitness Tracker</h1>
       <p className="content">
@@ -86,23 +107,6 @@ export default function Projects() {
                     </li>
                     <li>
                     <a href="https://aidanrich.github.io/quizgame/" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
-                    </li>
-                </ul>
-                </p>
-      </div>
-      <div className="box-main">
-        <h1 className="heading">Employee Manager</h1>
-        <p className="content">
-          <img src={employee} alt="employee" />
-
-        </p>
-        <p className="content">
-          This is a back-end only project using inquirer to help a user manage a database of employees. The current mock-up is for a clown college. To use: clone down the repo from github and run 'npm i' in the command line to get started.
-        </p>
-        <p className='above'>
-        <ul className="nav">
-                    <li>
-                    <a href="https://github.com/aidanrich/employee-manager" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
                     </li>
                 </ul>
                 </p>
