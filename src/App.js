@@ -1,5 +1,5 @@
 import React from 'react';
-// import Navbar from './components/Navbar';
+
 import { HashRouter, Route, Routes } from "react-router-dom";
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -7,7 +7,7 @@ import Home from './components/pages/Home';
 import Projects from './components/pages/Projects';
 import Contact from './components/pages/Contact';
 import About from './components/pages/About';
-// import Card from './components/Card';
+
 import './App.css';
 
 

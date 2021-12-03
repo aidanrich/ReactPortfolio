@@ -4,6 +4,7 @@ import fitness from '../assets/fitnesspic2.jpg';
 import newTown from '../assets/new2town2.jpg';
 import budget from '../assets/Capture.JPG';
 import quizGame from '../assets/quizgame.jpg'
+import aidanArt from '../assets/AidansArtBlog.jpg'
 // import employee from '../assets/Capture2.JPG'
 import game from '../assets/game.JPG'
 import prequel from '../assets/Prequel.JPG'
@@ -72,21 +73,21 @@ export default function Projects() {
                 </p>
       </div>
       <div className="box-main">
-        <h1 className="heading">Budget Tracker</h1>
+        <h1 className="heading">Aidan's Art</h1>
         <p className="content">
-          <img src={budget} alt="budget tracker" />
+          <img src={aidanArt} alt="art page" />
 
         </p>
         <p className="content">
-          This app specializes in tracking your expenditures even when offline. Using IndexDB in tandem with a service-worker users can expect data persistence even when on the go in poor connection areas.
+          This is a full stack Art Blog made in React with MongoDB and GraphQL. It showcases some of my art projects from over the years. This app is still in development and is a place for me to experiment with layouts.
         </p>
         <p className='above'>
         <ul className="nav">
                     <li>
-                    <a href="https://github.com/aidanrich/offline-budget-tracker" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
+                    <a href="https://github.com/aidanrich/Aidans-Art" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
                     </li>
                     <li>
-                    <a href="https://aqueous-citadel-52972.herokuapp.com" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
+                    <a href="https://polar-sands-47307.herokuapp.com/" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
                     </li>
                 </ul>
                 </p>
