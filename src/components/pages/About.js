@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/Card.css';
-import resume from '../assets/Resume2021.pdf'
+import resume from '../assets/ResumeAidanRich.pdf'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCss3Alt, faJs, faHtml5, faReact, faNodeJs } from '@fortawesome/free-brands-svg-icons';
 
