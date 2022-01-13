@@ -20,7 +20,7 @@ export default function Projects() {
 
         </p>
         <p className="content">
-        A video streaming app for smaller content creators with not a lot of clout/pull to get their work seen by industry professionals. The app will be designed such that lower-quality/budget productions can get exposure and views, with the hope of getting a series/movie picked up by a larger studio.
+        A video streaming app for smaller content creators with not a lot of clout/pull to get their work seen by industry professionals. The app will be designed such that lower-quality/budget productions can get exposure and views, with the hope of getting a series/movie picked up by a larger studio. Uses React, GraphQL, Cloudinary, MongoDB and Bootstrap.
         </p>
         <p className='above'>
         <ul className="nav">
@@ -39,7 +39,7 @@ export default function Projects() {
         <img src={fitness} alt="fitness" />
       </p>
       <p className="content">
-        The fitness tracker is a fullstack app that helps a user track and aggregate their workout routines over time. For this piece I worked primarily on the backend database and routes linking to the front end JS.
+        The fitness tracker is a fullstack app that helps a user track and aggregate their workout routines over time. For this piece I worked primarily on the backend database and routes linking to the front end JavaScript. Uses MongoDB.
           </p>
           <p className='above'>
           <ul className="nav">
@@ -99,7 +99,7 @@ export default function Projects() {
 
         </p>
         <p className="content">
-          This app is a simple quiz game designed to test your coding knowledge. Click through when the timer starts and find out how much you know!
+          This app is a simple quiz game designed to test your coding knowledge. Click through when the timer starts and find out how much you know! This project was made with JavaScript.
         </p>
         <p className='above'>
         <ul className="nav">
@@ -119,7 +119,7 @@ export default function Projects() {
 
         </p>
         <p className="content">
-          This app let's you search for games based on platform and genre and gives you book suggestions based on whichever game you click on.
+          This app let's you search for games based on platform and genre and gives you book suggestions based on whichever game you click on. Made using Tailwinds CSS framework with data sourced from third party APIs.
         </p>
         <p className='above'>
         <ul className="nav">
